@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+UdemyのコースFlutter&Dart - The Complete Guide [2021　Edition]のクイズアプリを作ろうとしました。途中からうまくいかなかったので、
+完成コードを動かして確認しようとしたところ、完成コードも動きませんでした。
 
 ## Getting Started
 
